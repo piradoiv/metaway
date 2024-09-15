@@ -1,7 +1,9 @@
 # Metaway
 **Metadata Remover**
 
-Remove metadata from your pictures. Avoid leaking any private information when sharing them. Metaway cleans up your pictures metadata information, including EXIF or geolocation.
+Remove metadata from your pictures. Avoid leaking any private information when sharing them.
+
+Metaway cleans up your pictures metadata information, including EXIF or geolocation.
 
 ![Screenshots](https://github.com/user-attachments/assets/94d476a2-e659-464f-8aa5-bccb3370eb28)
 
