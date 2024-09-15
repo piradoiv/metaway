@@ -1,5 +1,5 @@
 # Metaway
-**Metadata Remover**
+**Free Metadata Remover**
 
 Remove metadata from your pictures. Avoid leaking any private information when sharing them.
 
