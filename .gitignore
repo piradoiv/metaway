@@ -1,6 +1,8 @@
 Builds*
 *.debug
+*.debug.ipa
 *.debug.app
+*.debug.app.*
 Debug*.exe
 Debug*/Debug*.exe
 Debug*/Debug*\ Libs
@@ -8,3 +10,6 @@ Debug*/Debug*\ Libs
 *.xojo_uistate
 *.obsolete*
 .DS_Store
+DistributionSummary.plist
+ExportOptions.plist
+Packaging.log
