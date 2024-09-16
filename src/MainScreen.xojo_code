@@ -32,6 +32,7 @@ Begin MobileScreen MainScreen
       Top             =   65
       Visible         =   True
       Width           =   280
+      _ClosingFired   =   False
    End
    Begin ActionButtonContainer RemoveMetadataActionButton
       AccessibilityHint=   ""
@@ -52,6 +53,7 @@ Begin MobileScreen MainScreen
       Top             =   260
       Visible         =   True
       Width           =   280
+      _ClosingFired   =   False
    End
    Begin MobileImagePicker MyImagePicker
       AllowEditing    =   False
