@@ -11,4 +11,3 @@ Remove metadata from your pictures. Avoid leaking any private information when s
 Metaway cleans up your pictures metadata information, including EXIF or geolocation.
 
 <a href="https://apps.apple.com/app/metaway-metadata-remover/id6686406879" target="_blank"><img src="https://github.com/user-attachments/assets/412fd662-678b-4b09-b222-1353dca3fbf7"></a>    
-(It is still pending to be approved, but feel free to send me a message if you want to be a beta tester)
