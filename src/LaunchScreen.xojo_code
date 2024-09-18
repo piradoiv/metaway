@@ -1,7 +1,7 @@
 #tag IOSLaunchScreen
 Begin MobileScreen LaunchScreen
    BackButtonCaption=   ""
-   BackgroundColor =   &cFFFFFF00
+   BackgroundColor =   &c00000000
    Compatibility   =   ""
    ControlCount    =   0
    Device = 1

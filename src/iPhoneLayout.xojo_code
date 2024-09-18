@@ -1,8 +1,8 @@
 #tag IOSLayout
 	OrientationPortrait = True
-	OrientationLandscapeLeft = True
-	OrientationLandscapeRight = True
-	OrientationPortraitUpsideDown = True
+	OrientationLandscapeLeft = False
+	OrientationLandscapeRight = False
+	OrientationPortraitUpsideDown = False
 	Begin ScreenContent
 		ItemName = 
 		Target = 2105950207
