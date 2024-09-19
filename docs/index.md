@@ -6,7 +6,7 @@ layout: home
 ---
 
 <div style="text-align: center">
-    <img src="https://raw.githubusercontent.com/piradoiv/metaway/main/Icon/ios/AppIcon%403x.png" alt="Metaway logo">
+    <img src="{{ "/assets/app-icon.png" | relative_url }}" alt="Metaway logo">
     <h1>Metaway</h1>
 </div>
 
