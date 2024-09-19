@@ -22,8 +22,8 @@ title: Metaway
 description: >- # this means to ignore newlines until "baseurl:"
   Remove metadata from your pictures. Avoid leaking any private information when sharing them.
   Metaway cleans up your pictures metadata information, including EXIF or geolocation.
-baseurl: "/metaway" # the subpath of your site, e.g. /blog
-url: "https://piradoiv.github.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://metaway.rcruz.es" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: piradoiv
 github_username:  piradoiv
 
